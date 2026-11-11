@@ -1,1 +1,33 @@
 body{font-family:Arial;margin:0;background:#f5f5f5}header{background:#0b57d0;color:#fff;padding:15px}.card{background:#fff;margin:10px;padding:12px;border-radius:8px}.ok{border-left:5px solid green}#busca{margin:10px;width:95%;padding:10px}
+.acoes {
+    display: flex;
+    gap: 10px;
+    margin-top: 12px;
+}
+
+.acoes button {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn-concluir {
+    background: #22c55e;
+    color: white;
+}
+
+.btn-concluir:hover {
+    background: #16a34a;
+}
+
+.btn-maps {
+    background: #2563eb;
+    color: white;
+}
+
+.btn-maps:hover {
+    background: #1d4ed8;
+}
