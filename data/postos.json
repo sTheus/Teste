@@ -1,261 +1,261 @@
 [
   {
     "id": 1,
-    "nome": "Posto 1",
-    "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 1, Juiz de Fora - MG",
+    "nome": "Jardim Botânico",
+    "regiao": "Jardim Botânico",
+    "endereco": "R. Cel. Almeida Novais, 246 - Santa Terezinha, Juiz de Fora - MG, 36045-500",
     "concluido": false
   },
   {
     "id": 2,
-    "nome": "Posto 2",
-    "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 2, Juiz de Fora - MG",
+    "nome": "Faculdade de Medicina",
+    "regiao": "Dom Bosco",
+    "endereco": "Av. Eugênio do Nascimento, s/n - Dom Bosco, Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 3,
-    "nome": "Posto 3",
-    "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 3, Juiz de Fora - MG",
+    "nome": "Faculdade de Odontologia",
+    "regiao": "Dom Bosco",
+    "endereco": "Av. Eugênio do Nascimento, s/n - Dom Bosco, Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 4,
-    "nome": "Posto 4",
+    "nome": "Reitoria",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 4, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 5,
-    "nome": "Posto 5",
+    "nome": "Coordenação de Segurança",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 5, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 6,
-    "nome": "Posto 6",
+    "nome": "CPA",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 6, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 7,
-    "nome": "Posto 7",
+    "nome": "Faculdade de Administração",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 7, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 8,
-    "nome": "Posto 8",
+    "nome": "Faculdade de Comunicação",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 8, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 9,
-    "nome": "Posto 9",
+    "nome": "Faculdade de Direito",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 9, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 10,
-    "nome": "Posto 10",
+    "nome": "Faculdade de Economia",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 10, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 11,
-    "nome": "Posto 11",
+    "nome": "Faculdade de Educação",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 11, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 12,
-    "nome": "Posto 12",
+    "nome": "Faculdade de Educação Física",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 12, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 13,
-    "nome": "Posto 13",
+    "nome": "Faculdade de Enfermagem",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 13, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 14,
-    "nome": "Posto 14",
+    "nome": "Faculdade de Farmácia",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 14, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 15,
-    "nome": "Posto 15",
+    "nome": "Faculdade de Fisioterapia",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 15, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 16,
-    "nome": "Posto 16",
+    "nome": "Faculdade de Serviço Social",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 16, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 17,
-    "nome": "Posto 17",
+    "nome": "IAD",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 17, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 18,
-    "nome": "Posto 18",
+    "nome": "ICB",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 18, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 19,
-    "nome": "Posto 19",
+    "nome": "ICH",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 19, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 20,
-    "nome": "Posto 20",
+    "nome": "Meteorologia",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 20, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 21,
-    "nome": "Posto 21",
+    "nome": "Planetário",
     "regiao": "Campus UFJF",
-    "endereco": "Endereco placeholder 21, Juiz de Fora - MG",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 22,
-    "nome": "Posto 22",
-    "regiao": "Centro",
-    "endereco": "Endereco placeholder 22, Juiz de Fora - MG",
+    "nome": "RU Campus",
+    "regiao": "Campus UFJF",
+    "endereco": "Rua José Lourenço Kelmer, s/n - Campus Universitário - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 23,
-    "nome": "Posto 23",
-    "regiao": "Centro",
-    "endereco": "Endereco placeholder 23, Juiz de Fora - MG",
+    "nome": "Moradia Estudantil I",
+    "regiao": "Campus UFJF",
+    "endereco": "Rua José Lourenço Kelmer, 1137 - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 24,
-    "nome": "Posto 24",
-    "regiao": "Centro",
-    "endereco": "Endereco placeholder 24, Juiz de Fora - MG",
+    "nome": "Moradia Estudantil II",
+    "regiao": "Campus UFJF",
+    "endereco": "Rua José Lourenço Kelmer, 1119 - São Pedro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 25,
-    "nome": "Posto 25",
-    "regiao": "Centro",
-    "endereco": "Endereco placeholder 25, Juiz de Fora - MG",
+    "nome": "Medicina Veterinária Morro da Glória",
+    "regiao": "Morro da Glória",
+    "endereco": "Rua Capitão Arnaldo de Carvalho, 135 - Jardim Glória - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 26,
-    "nome": "Posto 26",
-    "regiao": "Centro",
-    "endereco": "Endereco placeholder 26, Juiz de Fora - MG",
+    "nome": "Arquivo Histórico",
+    "regiao": "Alto dos Passos",
+    "endereco": "Avenida Rio Branco, 3460 - Fundos - Alto dos Passos - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 27,
-    "nome": "Posto 27",
-    "regiao": "Centro",
-    "endereco": "Endereco placeholder 27, Juiz de Fora - MG",
+    "nome": "Casa da Helenira",
+    "regiao": "Alto dos Passos",
+    "endereco": "Rua Severino Meireles, 260 - Alto dos Passos - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 28,
-    "nome": "Posto 28",
+    "nome": "Casa de Cultura",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 28, Juiz de Fora - MG",
+    "endereco": "Avenida Barão do Rio Branco, 3372 - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 29,
-    "nome": "Posto 29",
+    "nome": "CECOM",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 29, Juiz de Fora - MG",
+    "endereco": "Av. Getúlio Vargas, 763 - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 30,
-    "nome": "Posto 30",
+    "nome": "Cine Theatro Central",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 30, Juiz de Fora - MG",
+    "endereco": "Praça João Pessoa, s/n - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 31,
-    "nome": "Posto 31",
+    "nome": "Escritório Escola",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 31, Juiz de Fora - MG",
+    "endereco": "Av. Presidente Itamar Franco, 988 - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 32,
-    "nome": "Posto 32",
+    "nome": "Fórum da Cultura",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 32, Juiz de Fora - MG",
+    "endereco": "Rua Santo Antônio, 1112 - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 33,
-    "nome": "Posto 33",
+    "nome": "MAMM",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 33, Juiz de Fora - MG",
+    "endereco": "Rua Benjamin Constant, 790 - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 34,
-    "nome": "Posto 34",
+    "nome": "RU Centro",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 34, Juiz de Fora - MG",
+    "endereco": "Rua Santo Antônio, s/n - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 35,
-    "nome": "Posto 35",
+    "nome": "Teatro Pró-Música",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 35, Juiz de Fora - MG",
+    "endereco": "Avenida Barão do Rio Branco, 2329 - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 36,
-    "nome": "Posto 36",
+    "nome": "Medicina Veterinária",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 36, Juiz de Fora - MG",
+    "endereco": "Rua Espírito Santo, 993 - Centro - Juiz de Fora - MG",
     "concluido": false
   },
   {
     "id": 37,
-    "nome": "Posto 37",
+    "nome": "Colégio João XXIII",
     "regiao": "Centro",
-    "endereco": "Endereco placeholder 37, Juiz de Fora - MG",
+    "endereco": "Rua Espírito Santo, 1301 - Centro - Juiz de Fora - MG",
     "concluido": false
   }
 ]
